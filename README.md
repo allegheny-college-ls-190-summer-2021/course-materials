@@ -99,7 +99,7 @@ We will examine each other's code (even, potentially mine) from the perspective 
 
 ### Group consultations
 
-Especially as the semester's work enters late phases, I will consult with folks working on particular aspects of our collaborative program.
+Especially as the semester's work enters late phases, I will consult with folks working on particular aspects of our collaborative program. These consultations are significant in that they are your opportunity to surface and solve problems with as many dedicated eyes as possible.
 
 ### Grading?
 
@@ -114,7 +114,20 @@ Where we're going, we don't need grades. But, for the sake of conducting a class
 |                 |       |             |
 |Total            |       |1000         |
 
-## Platforms
+### A note on Participation
+
+You'll notice a few things about participation very early:
+
+1. It's not discussed directly in relation to any of the assignments thus far
+2. It makes up a significant amount of course points
+
+Everything you complete in this course will have participation points attached to it. In real-world development, "showing up" (that is, being present to tackle issues and dedicating time to the practice) is an essential feature of development work. To model habits, I reward effort in ways that might seem disproportionate, but focus our work on the _process_ of completing a project. The final product is a necessary part of a good process, but learning how to engage in creative inquiry is, in some ways, massively more important than actually making something out of it.
+
+Participation points will be added to all assignment point values throughout the course, and will change from assignment to assignment to reflect difficulty.
+
+tl; dr: I want your work to be functional/high quality; really, though, I reward risk and effort. I want you to try things.
+
+## A note on Platforms
 
 We will engage with the following platforms to complete our work (see [above](#Platforms) for links):
 
