@@ -12,10 +12,11 @@
 
 ## Introduction to College-level Inquiry in a Liberal Arts Setting
 
-- Instructor: Douglas Luman
-- Email: dluman@allegheny.edu
-- Class meeting time: T/R, 9:30 - 10:45 (Eastern Date Time)
-- [Course schedule](http://chomp.link/ls-190-summer-2021-sched)
+
+- **Instructor:** Douglas Luman
+- **Email:** dluman@allegheny.edu
+- **Class meeting time:** T/R, 9:30 - 10:45 (Eastern Date Time)
+- [**Course schedule**](http://chomp.link/ls-190-summer-2021-sched)
 
 ### Platforms
 
@@ -26,7 +27,7 @@
 |[GitHub](https://github.com/allegheny-college-ls-190-summer-2021/) | Storing code, exchanging work |
 |[JupyterHub](https://jupyter.cs.allegheny.edu) | Development environment and workspace |
 
-## ⚠️ Warning: Inquiry Ahead
+## Disclaimer re: "Creative Inquiry"
 
 Let me get one thing clear first: you're taking this course with an artist, not a scientist. Shock for a computer *science* class, yes? 
 
@@ -123,7 +124,7 @@ You'll notice a few things about participation very early:
 
 Everything you complete in this course will have participation points attached to it. In real-world development, "showing up" (that is, being present to tackle issues and dedicating time to the practice) is an essential feature of development work. To model habits, I reward effort in ways that might seem disproportionate, but focus our work on the _process_ of completing a project. The final product is a necessary part of a good process, but learning how to engage in creative inquiry is, in some ways, massively more important than actually making something out of it.
 
-Participation points will be added to all assignment point values throughout the course, and will change from assignment to assignment to reflect difficulty.
+Participation points will be added to all assignment point values throughout the course, and will change from assignment to assignment to reflect difficulty. While participation _doesn't_ necessarily include class attendance, I imagine that anyone would find it difficult to skip a large amount of classes and be able to participate meaningfully.
 
 tl; dr: I want your work to be functional/high quality; really, though, I reward risk and effort. I want you to try things.
 
