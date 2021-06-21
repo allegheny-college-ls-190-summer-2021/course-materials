@@ -15,8 +15,20 @@
 
 - **Instructor:** Douglas Luman
 - **Email:** dluman@allegheny.edu
-- **Class meeting time:** T/R, 9:30 - 10:45 (Eastern Date Time)
 - [**Course schedule**](http://chomp.link/ls-190-summer-2021-sched)
+
+### Meetings and office hours
+
+|Day | Time (IST) | Time (EDT)) | Purpose |
+|:---|:-----|:--------|
+|Tuesday | 17:00 |7:30 | Office hours|
+|Tuesday | 19:00 |9:30 | Class meetings|
+|Thursday| 17:00 |7:30 | Office hours|
+|Thursday| 19:00 |9:30 | Class meetings|
+
+Office hour booking is available at https://chomp.link/office-hours.
+
+Should you be interested in office hours time _outside_ of offered times above, please message me to arrange another time.
 
 ### Platforms
 
