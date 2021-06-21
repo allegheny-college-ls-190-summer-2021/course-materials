@@ -20,7 +20,7 @@
 ### Meetings and office hours
 
 |Day | Time (IST) | Time (EDT)) | Purpose |
-|:---|:-----|:--------|
+|:---|:-----|:--------|:------|
 |Tuesday | 17:00 |7:30 | Office hours|
 |Tuesday | 19:00 |9:30 | Class meetings|
 |Thursday| 17:00 |7:30 | Office hours|
