@@ -164,3 +164,16 @@ I provide a link to the course schedule here which serves as a "living document"
 * [LS 190 Schedule](http://chomp.link/ls-190-summer-2021-sched)
 
 The above schedule will be revealed week-by-week, usually at the end of the week preceding.
+
+## Recorded content
+
+I will be recording all class content. This means that:
+
+* You have the right to turn off your camera and/or audio input
+* You have the ability to choose to watch recorded materials later
+
+I ask that, if you are unable to watch or attend live sessions, you reach out to me so that we can advantage you with the resources you need for this course (including scheduling a regular office-hour check in).
+
+These recordings are for our use only. To view them, you'll need to be logged in using your Allegheny College Google Accounts. Moreover, by remaining enrolled in this class, you agree not to share these resources with anyone outside of our course.
+
+This provision, while it seems minor, is extremely important in making sure that our course community stays a healthy one.
